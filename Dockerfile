@@ -2,7 +2,7 @@ FROM alpine:3.9
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
-ENV NGINX_VERSION 1.19.6
+ENV NGINX_VERSION 1.19.3
 
 ARG CONTAINER_PACKAGE_URL="mirrors.aliyun.com"
 
